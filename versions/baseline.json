@@ -3320,10 +3320,6 @@
       "baseline": "2019-07-10",
       "port-version": 3
     },
-    "geo-utils": {
-      "baseline": "1.0.0",
-      "port-version": 0
-    },
     "geogram": {
       "baseline": "1.9.3",
       "port-version": 0
@@ -3390,6 +3386,10 @@
     },
     "ginkgo": {
       "baseline": "1.11.0",
+      "port-version": 0
+    },
+    "gistrec-geo-utils": {
+      "baseline": "1.0.0",
       "port-version": 0
     },
     "gklib": {

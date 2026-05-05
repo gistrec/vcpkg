@@ -1,5 +1,5 @@
 {
-  "name": "geo-utils",
+  "name": "gistrec-geo-utils",
   "version": "1.0.0",
   "description": "Header-only C++17 library for spherical (lat/lng) geometry: distance, bearing, area, point-in-polygon",
   "homepage": "https://github.com/gistrec/geo-utils",
